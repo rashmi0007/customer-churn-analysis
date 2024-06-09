@@ -25,3 +25,10 @@ Dataset used for this task was presented by [Pwc Switzerland](https://www.pwc.ch
 ▪ Both male and female are departing the company in same proportion due to high churn rate.
 
 ▪ Most of the Churned customers including Senior Citizen preferred Electronic Check as the payment method.
+
+## Recommendations :
+▪ Encourage customers to subscribe to One-Year and Two-Year contracts, offering incentives to mitigate the higher monthly costs.
+
+▪ Implement targeted discounts for Month-to-Month subscribers to enhance retention.
+
+▪ Educate customers on the benefits of signing up for Online Security and Tech Support to improve service stickiness.
