@@ -31,7 +31,7 @@ Transformed Data using Power Query editor.
 
 
 ## Insights :
-▪ 2955 Technical tickets were opened and 3632 admin tickets were opened.
+▪ 2955 Technical tickets and 3632 admin tickets were opened.
 
 ▪ Majority of customers did not sign up for Technical Support and Online Security Services.
 
