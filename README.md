@@ -26,6 +26,9 @@ Transformed Data using Power Query editor.
 
 ![image](https://github.com/rashmi0007/customer_churn_analysis/assets/87612040/ba334025-1323-43bd-8eeb-46c3e3af3385)
 
+![image](https://github.com/rashmi0007/customer_churn_analysis/assets/87612040/c154499c-84e4-49d2-9d63-1a77cb8f49fe)
+
+
 ## Insights :
 ▪ 2955 Technical tickets were opened and 3632 admin tickets were opened.
 
