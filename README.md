@@ -13,6 +13,8 @@ Dataset used for this task was presented by [Pwc Switzerland](https://www.pwc.ch
 
 ▪ PowerPoint (For Dashboard background design)
 
+## [Dashboard](https://github.com/rashmi0007/customer_churn_analysis/blob/master/Customer_Churn_Analysis.pbix)
+
 ## Insights :
 ▪ 2955 Technical tickets were opened and 3632 admin tickets were opened.
 
@@ -26,7 +28,9 @@ Dataset used for this task was presented by [Pwc Switzerland](https://www.pwc.ch
 
 ▪ Most of the Churned customers including Senior Citizen preferred Electronic Check as the payment method.
 
-## Recommendations :
+▪ Customers with Fibre Optic Internet Service have a higher churn rate compared to those with DSL Internet Service.
+
+## Recommendation :
 ▪ Encourage customers to subscribe to One-Year and Two-Year contracts, offering incentives to mitigate the higher monthly costs.
 
 ▪ Implement targeted discounts for Month-to-Month subscribers to enhance retention.
