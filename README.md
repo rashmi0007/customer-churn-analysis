@@ -15,6 +15,7 @@ Dataset used for this task was presented by [Pwc Switzerland](https://www.pwc.ch
 
 ## Data Modeling :
 Transformed Data using Power Query editor.
+
 ![image](https://github.com/rashmi0007/customer_churn_analysis/assets/87612040/c78988cc-fff9-49a0-b847-4e287c23e42f)
 
 
