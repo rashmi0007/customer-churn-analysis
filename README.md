@@ -1,4 +1,4 @@
-# Pwc Switzerland - Power BI Virtual Case experience - Customer Churn Retention Analysis Dashboard
+# Pwc Switzerland - Power BI Virtual Case experience - Customer Churn Analysis
 
 ## About Project :
 To proactively identify telecom customers at risk of terminating their contracts, enabling the retention department to take preemptive action and reduce churn. Highlighting specific customer segments or individuals requiring immediate attention. Including valuable information and data on customer behavior and termination patterns.
