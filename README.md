@@ -13,6 +13,10 @@ Dataset used for this task was presented by [Pwc Switzerland](https://www.pwc.ch
 
 ▪ PowerPoint (For Dashboard background design)
 
+## Data Modeling :
+![image](https://github.com/rashmi0007/customer_churn_analysis/assets/87612040/c78988cc-fff9-49a0-b847-4e287c23e42f)
+
+
 ## [Dashboard](https://github.com/rashmi0007/customer_churn_analysis/blob/master/Customer_Churn_Analysis.pbix)
 
 ## Insights :
