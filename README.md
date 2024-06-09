@@ -14,10 +14,17 @@ Dataset used for this task was presented by [Pwc Switzerland](https://www.pwc.ch
 ▪ PowerPoint (For Dashboard background design)
 
 ## Data Modeling :
+Transformed Data using Power Query editor.
 ![image](https://github.com/rashmi0007/customer_churn_analysis/assets/87612040/c78988cc-fff9-49a0-b847-4e287c23e42f)
 
 
-## [Dashboard](https://github.com/rashmi0007/customer_churn_analysis/blob/master/Customer_Churn_Analysis.pbix)
+## [Dashboard](https://github.com/rashmi0007/customer_churn_analysis/blob/master/Customer_Churn_Analysis.pbix) :
+
+![image](https://github.com/rashmi0007/customer_churn_analysis/assets/87612040/5e485170-2fbb-4de2-8786-2c217ad17f3c)
+
+![image](https://github.com/rashmi0007/customer_churn_analysis/assets/87612040/217eda03-9afa-46a0-8f50-5701b1a42651)
+
+![image](https://github.com/rashmi0007/customer_churn_analysis/assets/87612040/ba334025-1323-43bd-8eeb-46c3e3af3385)
 
 ## Insights :
 ▪ 2955 Technical tickets were opened and 3632 admin tickets were opened.
